@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KixbPTsFHz4dHOJ5xUcO8MXD9TIRBucv5+e475+FD5Uop25b3TmRCEApJwfQ2v+Y9zHHsCkDYh05ElDkvcLoQ==",
+  "dgSpecHash": "DLTcVmiYaIjhiyb47Oz40ZEAtcP5qig4ZwLhE4ggdYdjqlMGWsGAsY0k9yZnZL94tPYBG4qKvIsfU8oshqpEcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

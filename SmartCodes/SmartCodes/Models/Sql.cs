@@ -45,7 +45,7 @@ namespace SmartCodes.Models
         }
 
 
-        //Execute
+        //Execute test
         public static void Execute(string query)
         {
             using (SqlConnection connection = new SqlConnection(connectionPermisson))

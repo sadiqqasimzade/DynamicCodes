@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj": {}
+    "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj": {
+    "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
         "projectName": "SmartCodes",
-        "projectPath": "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\SmartCodes.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\git\\SmartCodes\\SmartCodes\\SmartCodes\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\git\\Back\\SmartCodes\\SmartCodes\\SmartCodes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
